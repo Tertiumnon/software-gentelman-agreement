@@ -1,3 +1,21 @@
 type: agreement
-publish_on:
+slug: software-gentleman-agreement
+listed_on:
   - https://tertiumnon.github.io
+display_name:
+  en: "Software Gentleman's Agreement"
+summary:
+  en: "A gentlemen's agreement for software projects between people working together, including volunteers."
+languages:
+  - en
+default_language: en
+audience:
+  - developers
+  - volunteers
+entry_point: README.md
+team:
+  - name: Vitalii Balabanov
+    roles:
+      - owner
+      - maintainer
+    github: Tertiumnon
